@@ -1,0 +1,13 @@
+{
+  "Guid": "BA6D8E94-ED91-4D66-92BD-28C180B587A1",
+  "Name": "MCHOSE G87 Wireless",
+  "Description": "G87 2.4 GHz receiver lighting (41E4:2001), calibrated 87-key mapping and continuous brightness.",
+  "Author": "MCHOSE G87 RGB contributors",
+  "Icon": "Keyboard",
+  "Version": "0.5.0.0",
+  "Main": "Artemis.Plugins.MchoseG87.dll",
+  "AutoEnableProperties": true,
+  "RequiresAdmin": false,
+  "Platforms": "Windows",
+  "Api": "1.0.0"
+}
